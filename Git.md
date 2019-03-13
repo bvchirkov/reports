@@ -40,7 +40,7 @@
 другие) относятся к хранимым данным как к набору файлов и изменений, 
 сделанных для каждого из этих файлов во времени.
 
-![GitReport1.png](/img/GitReport/GitReport1.png "GitReport1.png")
+![GitReport1.png](/img/GitReport/GitReport1.jpg "GitReport1.jpg")
 
 
 Git не хранит свои данные в таком виде. Вместо этого Git считает 
@@ -50,7 +50,7 @@ Git не хранит свои данные в таком виде. Вместо
 эффективности, если файл не менялся, Git не сохраняет файл снова, а 
 делает ссылку на ранее сохранённый файл.
 
-![GitReport2.png](/img/GitReport/GitReport2.png "GitReport2.png")
+![GitReport2.png](/img/GitReport/GitReport2.jpg "GitReport2.jpg")
 
 
 Это важное отличие Git'а от практически всех других систем контроля 
@@ -118,7 +118,7 @@ Git не хранит свои данные в таком виде. Вместо
 Git'а (Git directory), рабочий каталог (working directory) и область 
 подготовленных файлов (staging area).
 
-![GitReport3.png](/img/GitReport/GitReport3.png "GitReport3.png")
+![GitReport3.png](/img/GitReport/GitReport3.jpg "GitReport3.jpg")
 
 
 Каталог Git'а — это место, где Git хранит метаданные и базу данных 
